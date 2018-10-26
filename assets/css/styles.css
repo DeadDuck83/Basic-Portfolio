@@ -176,3 +176,9 @@ input#submit-btn {
 input#submit-btn:hover {
     background-color: #ccc;
 }
+#contact-form ul li {
+    margin-top: 15px;
+}
+#contact-form ul li:first-child {
+    margin-top: 0px;
+}
